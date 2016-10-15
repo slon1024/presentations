@@ -7,6 +7,8 @@ My presentations promote how to create a software in the right way.
 - [data workshop #1 | titanic](https://github.com/slon1024/presentations/blob/master/dataworkshop/DataWorkshop1_Titanic.pdf)
 - [data workshop #2 | xgboost](https://github.com/slon1024/presentations/blob/master/dataworkshop/DataWorkshop2_xgboost.pdf)
 - [data workshop #3 | model evaluation](https://github.com/slon1024/presentations/blob/master/dataworkshop/DataWorkshop3_model_evaluation.pdf)
+- [data workshop #4 | bike sharing demand](https://github.com/slon1024/presentations/blob/master/dataworkshop/DataWorkshop4_bike_sharing_demand.pdf)
+- [data workshop #5 | visualization ](https://github.com/slon1024/presentations/blob/master/dataworkshop/DataWorkshop5_visualisation.pdf)
 
 
 ## Good Coding Practice in Real Life
