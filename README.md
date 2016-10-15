@@ -3,6 +3,12 @@ Presentations
 
 My presentations promote how to create a software in the right way.
 
+## [Data Workshop](http://dataworkshop.eu/)
+- [data workshop #1 | titanic](https://github.com/slon1024/presentations/blob/master/dataworkshop/DataWorkshop1_Titanic.pdf)
+- [data workshop #2 | xgboost](https://github.com/slon1024/presentations/blob/master/dataworkshop/DataWorkshop2_xgboost.pdf)
+- [data workshop #3 | model evaluation](https://github.com/slon1024/presentations/blob/master/dataworkshop/DataWorkshop3_model_evaluation.pdf)
+
+
 ## Good Coding Practice in Real Life
 #### SOLID
 - [Single Responsibility Principle](https://github.com/slon1024/presentations/blob/master/Good_coding_practice_in_real_life/SOLID/c%23/Single_responsibility_principle.pdf)
